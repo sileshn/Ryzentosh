@@ -6,6 +6,7 @@
 [![Screenshot-2020-11-04-at-6-18-51-PM.png](https://i.postimg.cc/Cx12Z4Y7/Screenshot-2020-11-04-at-6-18-51-PM.png)](https://postimg.cc/JGfxvZsH)
 
 ## Specification
+
 | Component        | Model                                  |
 | ---------------- | -------------------------------------- |
 | CPU              | AMD Ryzen 7 2700                       |
@@ -13,8 +14,12 @@
 | OS Disk          | Kingston 240gb SSD                     |
 | RAM              | 2x 8gb Corsair Vengeance Pro 16GB Ram  |
 | GPU              | Nvidia Geforce GT710 2gb               |
-| Cooler    	   | Stock AMD                              |
+| Cooler    	     | Stock AMD                              |
 
+## Benchmarks
+
+* [Cinebench](https://i.postimg.cc/c13FkMQ9/cinebench.png)
+* [Geekbench](https://i.postimg.cc/YCdRLXH9/geekbench.png)
 
 ## Patches, Drivers & Kexts
 
