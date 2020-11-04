@@ -18,26 +18,27 @@
 
 ## Patches, Drivers & Kexts
 
-- [Patchs] AMD_Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
-- [Driver] OpenRuntime
-- [Driver] OpenCanopy
-- [Driver] HfsPlusLegacy
-- [Kext] Lilu
-- [Kext] WhateverGreen
-- [Kext] AppleALC
-- [Kext] AMDRyzenCPUPowerManagement
-- [Kext] AppleMCEReporterDisabler
-- [Kext] AGPMInjector
-- [Kext] RealtekRTL8111
-- [Kext] SMCAMDProcessor
+* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
+* [OpenRuntime](https://github.com/acidanthera/OpenCorePkg)
+* [OpenCanopy](https://github.com/acidanthera/OpenCorePkg)
+* [HfsPlusLegacy](https://github.com/acidanthera/OpenCorePkg) 
+* [Lilu](https://github.com/acidanthera/Lilu)
+* [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+* [AppleALC](https://github.com/acidanthera/AppleALC)
+* [AMDRyzenCPUPowerManagement](https://github.com/trulyspinach/SMCAMDProcessor)
+* [AppleMCEReporterDisabler](https://github.com/acidanthera/OpenCorePkg)
+* [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+* [AGPMInjector](https://github.com/Pavo-IM/AGPMInjector)
+* [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
+* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor)
 
 
 ## Working
 
-- [x] Messaging
-- [x] iCloud
-- [x] Bluetooth
-- [x] Ethernet
+* Messaging
+* iCloud
+* Bluetooth
+* Ethernet
 
 ## Bootloader
 
@@ -52,3 +53,5 @@ Use at your own risk. I take no responsiblity if your rig explodes. SMBios value
 Cedits and links:
 * [OpenCore Desktop Guide](https://github.com/dortania/OpenCore-Desktop-Guide)
 * [Hackintool](https://www.hackintosh-forum.de/forum/thread/38316-hackintool-ehemals-intel-fb-patcher/)
+* [OC Builder](https://github.com/Pavo-IM/ocbuilder)
+* [OC Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
