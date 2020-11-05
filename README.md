@@ -13,8 +13,8 @@
 | MotherBoard      | MSI Pro VDH Max                        |
 | OS Disk          | Kingston 240gb SSD                     |
 | RAM              | 2x 8gb Corsair Vengeance Pro 16GB Ram  |
-| GPU              | Nvidia Geforce GT710 2gb               |
-| Cooler    	     | Stock AMD                              |
+| GPU              | Radeon RX570 4gb               		|
+| Cooler    	   | Cooler master hyper 410r               |
 
 ## Benchmarks
 
