@@ -98,6 +98,17 @@
 				<key>model</key>
 				<string>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</string>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x6,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,1,3/0,2/6,0/0,0</string>
+				<key>built-in</key>
+				<data>AQ==</data>
+				<key>device_type</key>
+				<string>Network controller</string>
+				<key>model</key>
+				<string>BCM4360 802.11ac Wireless Network Adapter</string>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
