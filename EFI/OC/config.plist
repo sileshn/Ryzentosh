@@ -1673,7 +1673,7 @@
 				<key>Base</key>
 				<string></string>
 				<key>Comment</key>
-				<string>algrey - mtrr_update_action - fix PAT</string>
+				<string>Shaneee - mtrr_update_action - fix PAT</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
@@ -1696,7 +1696,7 @@
 				<string>17.0.0</string>
 				<key>Replace</key>
 				<data>
-				uXcCAAC4BgEHALoGAQcADx9AAA==
+				uXcCAAC4BgYGBroGBgYGDzAPCQ==
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -1775,7 +1775,7 @@
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
-			<false/>
+			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -1827,7 +1827,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>983299</integer>
+			<integer>0</integer>
 			<key>SecureBootModel</key>
 			<string>Disabled</string>
 			<key>Vault</key>
@@ -1848,7 +1848,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 npci=0x2000 debug=0x100 alcid=1</string>
+				<string>-v keepsyms=1 npci=0x2000 debug=0x100 alcid=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
