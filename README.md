@@ -1,6 +1,6 @@
 # AMD Ryzen Hackintosh
 
-**MacOS version**: 11.0.1 beta  
+**MacOS version**: 11.1 beta2  
 **OpenCore version**: 0.6.3
 
 [![Screenshot-2020-11-04-at-6-18-51-PM.png](https://i.postimg.cc/Cx12Z4Y7/Screenshot-2020-11-04-at-6-18-51-PM.png)](https://postimg.cc/JGfxvZsH)
@@ -13,7 +13,7 @@
 | MotherBoard      | MSI Pro VDH Max                        |
 | OS Disk          | Kingston 240gb SSD                     |
 | RAM              | 2x 8gb Corsair Vengeance Pro 16GB Ram  |
-| GPU              | Radeon RX570 4gb               		|
+| GPU              | Radeon RX570 4gb | Nvidia GT710 2gb    |
 | Cooler    	   | Cooler master hyper 410r               |
 
 ## Benchmarks
