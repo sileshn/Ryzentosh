@@ -109,35 +109,6 @@
 				<key>model</key>
 				<string>BCM4360 802.11ac Wireless Network Adapter</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x0)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,3,1/0,0</string>
-				<key>device_type</key>
-				<string>VGA compatible controller</string>
-				<key>model</key>
-				<string>Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]</string>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x3,0x1)/Pci(0x0,0x1)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,3,1/0,1</string>
-				<key>device_type</key>
-				<string>Audio device</string>
-				<key>model</key>
-				<string>Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]</string>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x3)</key>
-			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,8,1/0,3</string>
-				<key>device_type</key>
-				<string>Audio device</string>
-				<key>layout-id</key>
-				<data>AQAAAA==</data>
-				<key>model</key>
-				<string>Family 17h (Models 00h-0fh) HD Audio Controller</string>
-			</dict>
 		</dict>	
 		<key>Delete</key>
 		<dict/>
@@ -1745,7 +1716,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				icCB4v//AP+BygAAAQC5dwIAAA==
@@ -1782,7 +1753,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				icCB4v//AP+BygAAAQC5dwIAAA==
@@ -1880,7 +1851,7 @@
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
-			<false/>
+			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
@@ -1953,7 +1924,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 npci=0x2000 debug=0x100 alcid=1</string>
+				<string>-v keepsyms=1 npci=0x2000 debug=0x100 alcid=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
