@@ -58,7 +58,7 @@ I use Manjaro's grub bootloader to triple boot Manjaro, Windows 10 and MacOSX.
 
 [![Manjaro-grub.png](https://i.postimg.cc/HxGvhDMv/Manjaro-grub.png)](https://postimg.cc/t15zsc2F)
 
-## Cedits and links
+## Credits and links
 
 * [OpenCore Desktop Guide](https://github.com/dortania/OpenCore-Desktop-Guide)
 * [Hackintool](https://www.hackintosh-forum.de/forum/thread/38316-hackintool-ehemals-intel-fb-patcher/)
