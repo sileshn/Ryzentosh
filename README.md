@@ -3,6 +3,9 @@
 **MacOS version**: 11.1 beta2  
 **OpenCore version**: 0.6.4
 
+# Disclaimer
+Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
+
 [![bigsur.png](https://i.postimg.cc/C1rTHPNV/bigsur.png)](https://postimg.cc/N9XzQxSN)
 
 ## Specification
@@ -55,11 +58,8 @@ I use Manjaro's grub bootloader to triple boot Manjaro, Windows 10 and MacOSX.
 
 [![Manjaro-grub.png](https://i.postimg.cc/HxGvhDMv/Manjaro-grub.png)](https://postimg.cc/t15zsc2F)
 
-## Notes
+## Cedits and links
 
-Use at your own risk. I take no responsiblity if your rig explodes. SMBios values have not been updated in the config. You need to create them yourself.
-
-Cedits and links:
 * [OpenCore Desktop Guide](https://github.com/dortania/OpenCore-Desktop-Guide)
 * [Hackintool](https://www.hackintosh-forum.de/forum/thread/38316-hackintool-ehemals-intel-fb-patcher/)
 * [OC Builder](https://github.com/Pavo-IM/ocbuilder)
