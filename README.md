@@ -1,6 +1,6 @@
 # AMD Ryzen Hackintosh
 
-**MacOS version**: 11.1 beta2  
+**MacOS version**:  11.2 Beta  
 **OpenCore version**: 0.6.4
 
 # Disclaimer
