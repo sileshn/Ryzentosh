@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh
 
 **MacOS version**:  11.2 Beta  
-**OpenCore version**: 0.6.4
+**OpenCore version**: 0.6.5
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
