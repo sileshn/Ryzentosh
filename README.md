@@ -16,8 +16,8 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | MotherBoard      | MSI Pro VDH Max                        |
 | OS Disk          | Kingston 240gb SSD                     |
 | RAM              | 2x 8gb Corsair Vengeance Pro 16GB Ram  |
-| GPU              | Radeon RX570 4gb | Nvidia GT710 2gb    |
-| Cooler    	   | Cooler master hyper 410r               |
+| GPU              | Nvidia GT710 2gb                       |
+| Cooler    	     | Cooler master hyper 410r               |
 
 ## Benchmarks
 
