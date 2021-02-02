@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh
 
-**MacOS version**:  11.2
-**OpenCore version**: 0.6.5
+[![MacOS version](https://img.shields.io/badge/macOS-11.2-informational.svg)](https://www.apple.com/macos)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.5-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
@@ -19,10 +19,11 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | GPU              | Nvidia GT710 2gb                       |
 | Cooler    	     | Cooler master hyper 410r               |
 
-## Benchmarks
+## Working
 
-* [Cinebench](https://i.postimg.cc/c13FkMQ9/cinebench.png)
-* [Geekbench](https://i.postimg.cc/YCdRLXH9/geekbench.png)
+* iCloud
+* Bluetooth
+* Ethernet
 
 ## Patches, Drivers & Kexts
 
@@ -43,14 +44,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * [AGPMInjector](https://github.com/Pavo-IM/AGPMInjector)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor)
-
-
-## Working
-
-* Messaging
-* iCloud
-* Bluetooth
-* Ethernet
 
 ## Bootloader
 
