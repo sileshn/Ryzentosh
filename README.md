@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh
 
 [![MacOS version](https://img.shields.io/badge/macOS-11.2-informational.svg)](https://www.apple.com/macos)
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.5-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
@@ -30,7 +30,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
 * [OpenRuntime](https://github.com/acidanthera/OpenCorePkg)
 * [OpenCanopy](https://github.com/acidanthera/OpenCorePkg)
-* [HfsPlusLegacy](https://github.com/acidanthera/OpenCorePkg) 
+* [OpenHfsPlus](https://github.com/acidanthera/OpenCorePkg) 
 * [Lilu](https://github.com/acidanthera/Lilu)
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 * [AppleALC](https://github.com/acidanthera/AppleALC)
