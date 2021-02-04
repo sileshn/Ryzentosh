@@ -1,6 +1,6 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/macOS-11.3-informational.svg)](https://www.apple.com/macos)
+[![MacOS version](https://img.shields.io/badge/macOS-11.3Beta20E5172i-informational.svg)](https://www.apple.com/macos)
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 
 # Disclaimer
