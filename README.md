@@ -2,6 +2,7 @@
 
 [![MacOS version](https://img.shields.io/badge/macOS-11.3%20Beta3%2020E5196f-informational.svg)](https://www.apple.com/macos)
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.7-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
