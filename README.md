@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh
 
 [![MacOS version](https://img.shields.io/badge/macOS-11.3%20Beta6%2020E5224a-informational.svg)](https://www.apple.com/macos)
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.7-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.8-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 # Disclaimer
