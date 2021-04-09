@@ -1,13 +1,13 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/macOS-11.3%20Beta6%2020E5224a-informational.svg)](https://www.apple.com/macos)
+[![MacOS version](https://img.shields.io/badge/macOS-11.3%20Beta7%2020E5229a-informational.svg)](https://www.apple.com/macos)
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.8-informational.svg)](https://github.com/acidanthera/OpenCorePkg)
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
-[![Screenshot-2021-04-01-at-4-39-58-AM.png](https://i.postimg.cc/pd1Xh2WW/Screenshot-2021-04-01-at-4-39-58-AM.png)](https://postimg.cc/v1fdCwxk)
+[![Screenshot-2021-04-09-at-6-50-17-AM.png](https://i.postimg.cc/GpN9010X/Screenshot-2021-04-09-at-6-50-17-AM.png)](https://postimg.cc/Mc7zRNpB)
 
 ## Specification
 
