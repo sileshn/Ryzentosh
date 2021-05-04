@@ -7,7 +7,7 @@
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
-[![Screenshot-2021-04-22-at-3-10-39-AM.png](https://i.postimg.cc/Znq1Zv51/Screenshot-2021-04-22-at-3-10-39-AM.png)](https://postimg.cc/BLdhB6Dg)
+[![Screenshot-2021-05-04-at-10-16-16-AM.png](https://i.postimg.cc/hjKVbYSb/Screenshot-2021-05-04-at-10-16-16-AM.png)](https://postimg.cc/hJ3JKpQf)
 
 ## Specification
 
@@ -35,16 +35,14 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * [Lilu](https://github.com/acidanthera/Lilu)
 * [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 * [AppleALC](https://github.com/acidanthera/AppleALC)
-* [AMDRyzenCPUPowerManagement](https://github.com/trulyspinach/SMCAMDProcessor)
 * [AppleMCEReporterDisabler](https://github.com/acidanthera/OpenCorePkg)
 * [AirportBrcmFixup](https://github.com/acidanthera/airportbrcmfixup/releases)
 * [BrcmFirmwareData](https://github.com/acidanthera/BrcmPatchRAM)
 * [BrcmPatchRAM3](https://github.com/acidanthera/BrcmPatchRAM)
 * [BrcmBluetoothInjector](https://github.com/acidanthera/BrcmPatchRAM)
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
-* [AGPMInjector](https://github.com/Pavo-IM/AGPMInjector)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
-* [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor)
+* [RestrictEvents](https://github.com/acidanthera/RestrictEvents)
 
 ## Bootloader
 
