@@ -25,6 +25,12 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * iCloud
 * Bluetooth
 * Ethernet
+* Wifi
+* iServices
+
+## Not Working ( only ones I have tried, there may be more )
+
+* Drm related stuff ( Apple TV )
 
 ## Patches, Drivers & Kexts
 
