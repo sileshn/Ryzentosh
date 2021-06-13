@@ -56,7 +56,7 @@ I use Manjaro's grub bootloader to triple boot Manjaro, Windows 10 and MacOSX.
 
 [![Manjaro-grub.png](https://i.postimg.cc/HxGvhDMv/Manjaro-grub.png)](https://postimg.cc/t15zsc2F)
 
-[![09215826.png](https://i.postimg.cc/bJ731W5M/09215826.png)](https://postimg.cc/7GN3kswM)
+[![13093626.png](https://i.postimg.cc/cHWgzd2v/13093626.png)](https://postimg.cc/xks1JV0Q)
 
 ## Credits and links
 

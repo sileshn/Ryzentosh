@@ -1627,7 +1627,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Teqteq\Minimal</string>
+			<string>BlackOSX\BsxOC1</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
