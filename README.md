@@ -52,11 +52,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use Manjaro's grub bootloader to triple boot Manjaro, Windows 10 and MacOSX.
+I use OpenCore to triple boot Manjaro, Windows10 and MacOSX.
 
-[![Manjaro-grub.png](https://i.postimg.cc/HxGvhDMv/Manjaro-grub.png)](https://postimg.cc/t15zsc2F)
-
-[![13093626.png](https://i.postimg.cc/cHWgzd2v/13093626.png)](https://postimg.cc/xks1JV0Q)
+[![13114808.png](https://i.postimg.cc/KvSKv6bG/13114808.png)](https://postimg.cc/Dm6fxYmH)
 
 ## Credits and links
 
