@@ -7,23 +7,23 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>RestrictEvents</string>
+	<string>BlueToolFixup</string>
 	<key>CFBundleIdentifier</key>
-	<string>as.vit9696.RestrictEvents</string>
+	<string>as.acidanthera.BlueToolFixup</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>RestrictEvents</string>
+	<string>BlueToolFixup</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.3</string>
+	<string>2.6.0</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.0.3</string>
+	<string>2.6.0</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -42,14 +42,14 @@
 	<string>12B45b</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>as.vit9696.RestrictEvents</key>
+		<key>BlueToolFixup</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>as.vit9696.RestrictEvents</string>
+			<string>as.acidanthera.BlueToolFixup</string>
 			<key>IOClass</key>
-			<string>RestrictEvents</string>
+			<string>BlueToolFixup</string>
 			<key>IOMatchCategory</key>
-			<string>RestrictEvents</string>
+			<string>BlueToolFixup</string>
 			<key>IOProviderClass</key>
 			<string>IOResources</string>
 			<key>IOResourceMatch</key>
@@ -58,14 +58,10 @@
 	</dict>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.8</string>
-	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2020 vit9696. All rights reserved.</string>
-	<key>OSBundleCompatibleVersion</key>
-	<string>1.0</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>as.vit9696.Lilu</key>
-		<string>1.2.0</string>
+		<string>1.4.7</string>
 		<key>com.apple.kpi.bsd</key>
 		<string>12.0.0</string>
 		<key>com.apple.kpi.dsep</key>
