@@ -34,21 +34,17 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Patches, Drivers & Kexts
 
-* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
-* [OpenRuntime](https://github.com/acidanthera/OpenCorePkg)
-* [OpenCanopy](https://github.com/acidanthera/OpenCorePkg)
-* [OpenHfsPlus](https://github.com/acidanthera/OpenCorePkg) 
-* [Lilu](https://github.com/acidanthera/Lilu)
-* [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
+* [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)
 * [AppleALC](https://github.com/acidanthera/AppleALC)
-* [AppleMCEReporterDisabler](https://github.com/acidanthera/OpenCorePkg)
-* [AirportBrcmFixup](https://github.com/acidanthera/airportbrcmfixup/releases)
-* [BrcmFirmwareData](https://github.com/acidanthera/BrcmPatchRAM)
-* [BrcmPatchRAM3](https://github.com/acidanthera/BrcmPatchRAM)
-* [BrcmBluetoothInjector](https://github.com/acidanthera/BrcmPatchRAM)
-* [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+* [AppleMCEReporterDisabler](https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip)
+* [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
+* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
+* [Lilu](https://github.com/acidanthera/Lilu)
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 * [RestrictEvents](https://github.com/acidanthera/RestrictEvents)
+* [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
+* [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 
 ## Bootloader
 
