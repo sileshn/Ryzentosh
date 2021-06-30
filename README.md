@@ -1,13 +1,13 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/macOS-10.15.7%2019H1311-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-11.5%20Beta%2020G5033c-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-12.0%20Beta%2021A5248p-informational.svg)](https://www.apple.com/macos)\
+[![MacOS version](https://img.shields.io/badge/macOS-10.15.7%2019H1317-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-11.5%20Beta%2020G5052c-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-12.0%20Beta%2021A5248p-informational.svg)](https://www.apple.com/macos)\
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
-[![Screenshot-2021-06-03-at-7-14-20-AM.png](https://i.postimg.cc/Y0ZT6B4k/Screenshot-2021-06-03-at-7-14-20-AM.png)](https://postimg.cc/N28NtV7P) [![Screenshot-2021-06-17-at-2-35-03-PM.png](https://i.postimg.cc/02g5H5G1/Screenshot-2021-06-17-at-2-35-03-PM.png)](https://postimg.cc/Sjrpnhtg) [![Screenshot-2021-06-29-at-7-00-57-PM.png](https://i.postimg.cc/ZnvXFScv/Screenshot-2021-06-29-at-7-00-57-PM.png)](https://postimg.cc/xNYsnBB9)
+[![Screenshot-2021-06-17-at-2-35-03-PM.png](https://i.postimg.cc/02g5H5G1/Screenshot-2021-06-17-at-2-35-03-PM.png)](https://postimg.cc/Sjrpnhtg) [![Screenshot-2021-06-30-at-7-07-58-AM.png](https://i.postimg.cc/Vk5KQyvH/Screenshot-2021-06-30-at-7-07-58-AM.png)](https://postimg.cc/YvK6Ys11) [![Screenshot-2021-06-30-at-7-16-10-AM.png](https://i.postimg.cc/c4kccDh7/Screenshot-2021-06-30-at-7-16-10-AM.png)](https://postimg.cc/JGJJr59t)
 
 ## Specification
 
