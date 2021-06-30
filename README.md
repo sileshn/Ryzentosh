@@ -48,9 +48,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to triple boot Manjaro, Windows10 and MacOSX.
+I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
 
-[![13114808.png](https://i.postimg.cc/KvSKv6bG/13114808.png)](https://postimg.cc/Dm6fxYmH)
+[![30030721.png](https://i.postimg.cc/DwqcL1jn/30030721.png)](https://postimg.cc/75Z7yJrW)
 
 ## Credits and links
 
