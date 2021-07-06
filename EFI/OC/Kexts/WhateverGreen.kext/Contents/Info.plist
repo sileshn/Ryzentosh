@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17G6030</string>
+	<string>19H1217</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -29,17 +29,19 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>10B61</string>
+	<string>12B45b</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>11.0</string>
 	<key>DTSDKBuild</key>
-	<string>15E60</string>
+	<string>20A2408</string>
 	<key>DTSDKName</key>
-	<string>macosx10.11</string>
+	<string>macosx11.0</string>
 	<key>DTXcode</key>
-	<string>1010</string>
+	<string>1220</string>
 	<key>DTXcodeBuild</key>
-	<string>10B61</string>
+	<string>12B45b</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>NVHDAEnabler</key>
@@ -73,6 +75,8 @@
 			<string>IOKit</string>
 		</dict>
 	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.6</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2018 vit9696. All rights reserved.</string>
 	<key>OSBundleCompatibleVersion</key>
