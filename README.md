@@ -1,13 +1,13 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/macOS-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-11.5-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-12.0%20Beta3%2021A5284e-informational.svg)](https://www.apple.com/macos)\
+[![MacOS version](https://img.shields.io/badge/macOS-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-11.5.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/macOS-12.0%20Beta3%2021A5284e-informational.svg)](https://www.apple.com/macos)\
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.1-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
-[![Screenshot-2021-07-23-at-7-02-27-AM.png](https://i.postimg.cc/cJqp54p1/Screenshot-2021-07-23-at-7-02-27-AM.png)](https://postimg.cc/18H78PRb) [![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screenshot-2021-07-27-at-8-05-30-AM.png](https://i.postimg.cc/YqbZyjm5/Screenshot-2021-07-27-at-8-05-30-AM.png)](https://postimg.cc/1fVv8mBB)
+[![Screenshot-2021-07-27-at-4-36-56-PM.png](https://i.postimg.cc/Gp2FSTQ8/Screenshot-2021-07-27-at-4-36-56-PM.png)](https://postimg.cc/9D6wDMsC) [![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screenshot-2021-07-27-at-8-05-30-AM.png](https://i.postimg.cc/YqbZyjm5/Screenshot-2021-07-27-at-8-05-30-AM.png)](https://postimg.cc/1fVv8mBB)
 
 ## Specification
 
