@@ -9,6 +9,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 [![Screenshot-2021-07-28-at-6-17-13-AM.png](https://i.postimg.cc/02C96Qwr/Screenshot-2021-07-28-at-6-17-13-AM.png)](https://postimg.cc/PPNg9dKk) [![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screenshot-2021-07-27-at-8-05-30-AM.png](https://i.postimg.cc/YqbZyjm5/Screenshot-2021-07-27-at-8-05-30-AM.png)](https://postimg.cc/1fVv8mBB)
 
+## Important information
+This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
+
 ## Specification
 
 | Component        | Model                                  |
