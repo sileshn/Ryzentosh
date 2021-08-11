@@ -1,13 +1,13 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.5.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0%20Beta4%2021A5294g-informational.svg)](https://www.apple.com/macos)\
+[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.5.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0%20Beta4%2021A5294g-informational.svg)](https://www.apple.com/macos)\
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
-[![Screenshot-2021-07-27-at-4-36-56-PM.png](https://i.postimg.cc/Gp2FSTQ8/Screenshot-2021-07-27-at-4-36-56-PM.png)](https://postimg.cc/9D6wDMsC) [![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screenshot-2021-07-28-at-6-17-13-AM.png](https://i.postimg.cc/02C96Qwr/Screenshot-2021-07-28-at-6-17-13-AM.png)](https://postimg.cc/PPNg9dKk)
+[![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screenshot-2021-08-11-at-11-42-20-PM.png](https://i.postimg.cc/t4BDk5Dn/Screenshot-2021-08-11-at-11-42-20-PM.png)](https://postimg.cc/gx6vk3CG) [![Screenshot-2021-07-28-at-6-17-13-AM.png](https://i.postimg.cc/02C96Qwr/Screenshot-2021-07-28-at-6-17-13-AM.png)](https://postimg.cc/PPNg9dKk)
 
 ## Important information
 This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
