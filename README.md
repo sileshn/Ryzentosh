@@ -12,6 +12,8 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 ## Important information
 This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
+Monterey beta 6 software update may not show up if you are have securebootmodel disabled in your config.plist. To get the update, change securebootmodel to the appropriate value based on your smbios and reboot. [This](https://dortania.github.io/OpenCore-Post-Install/universal/security/applesecureboot.html#securebootmodel) section in the dortania guide will help you select the correct value. I had to choose j160 as my smbios is set to MacPro7,1. Make sure to change the securebootmodel back to disabled in the config.plist before the installer reboots the first time. You could do it when the update is being downloaded. DO NOT CHANGE THE SECURE BOOT VALUE IN BIOS.
+
 ## Specification
 
 | Component        | Model                                  |
