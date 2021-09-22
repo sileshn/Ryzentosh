@@ -1,18 +1,24 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6%2020G165-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0%20Beta6%2021A5506j-informational.svg)](https://www.apple.com/macos)\
+[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6%2020G165-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.0%20Beta7%2021A5522h-informational.svg)](https://www.apple.com/macos)\
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.3-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
-[![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screenshot-2021-09-14-at-1-14-03-AM.png](https://i.postimg.cc/T3X6jd1N/Screenshot-2021-09-14-at-1-14-03-AM.png)](https://postimg.cc/4mwqsTzp) [![Screenshot-2021-09-01-at-3-58-26-AM.png](https://i.postimg.cc/QMkRxb6S/Screenshot-2021-09-01-at-3-58-26-AM.png)](https://postimg.cc/McHs9yJj)
+[![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screenshot-2021-09-14-at-1-14-03-AM.png](https://i.postimg.cc/T3X6jd1N/Screenshot-2021-09-14-at-1-14-03-AM.png)](https://postimg.cc/4mwqsTzp) [![Screenshot-2021-09-22-at-7-09-40-AM.png](https://i.postimg.cc/6pJFXhLz/Screenshot-2021-09-22-at-7-09-40-AM.png)](https://postimg.cc/mtjm3CnF)
 
 ## Important information
 This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
 Monterey beta 6 software update may not show up if you have securebootmodel disabled in your config.plist. To get the update, change securebootmodel to the appropriate value based on your smbios ( [look here](https://dortania.github.io/OpenCore-Post-Install/universal/security/applesecureboot.html#securebootmodel) to find the values for your system ) and reboot. I had to choose j160 as my smbios is set to MacPro7,1. Make sure to change the securebootmodel back to disabled in the config.plist before the installer reboots the first time. DO NOT CHANGE THE SECURE BOOT VALUE IN BIOS.
+
+To install Monterey Beta 7, you need to follow the steps below.
+
+* Change securebootmodel to the appropriate value based on your smbios ( [look here](https://dortania.github.io/OpenCore-Post-Install/universal/security/applesecureboot.html#securebootmodel) ) and reboot for the update to show up.
+* Install update after changing your smbios to iMac17,1 with securebootmodel set to disabled.( Booting from mackintosh HD )
+* Change smbios to your original values and boot from your Monterey disk.
 
 ## Specification
 
