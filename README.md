@@ -48,7 +48,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 * [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)
 * [AppleALC](https://github.com/acidanthera/AppleALC)
-* [AppleMCEReporterDisabler](https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip)
 * [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
 * [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
 
