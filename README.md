@@ -68,7 +68,7 @@ I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur &
 
 ## Credits and links
 
-* [OpenCore Desktop Guide](https://github.com/dortania/OpenCore-Desktop-Guide)
-* [Hackintool](https://www.hackintosh-forum.de/forum/thread/38316-hackintool-ehemals-intel-fb-patcher/)
-* [OC Builder](https://github.com/Pavo-IM/ocbuilder)
-* [OC Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+* [OpenCore install guide](https://dortania.github.io/OpenCore-Install-Guide)
+* [Hackintool](https://www.hackintosh-forum.de/forum/thread/38316-hackintool-ehemals-intel-fb-patcher)
+* [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+* [OpenCore-Legacy-Patcher guide](https://dortania.github.io/OpenCore-Legacy-Patcher)
