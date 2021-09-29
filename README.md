@@ -39,11 +39,12 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Bluetooth
 * Ethernet
 * Wifi
-* iServices
+* iServices & drm
+* Sleep
 
 ## Not Working ( only ones I have tried, there may be more )
 
-* Sleep
+* None afaik...
 
 ## Patches, Drivers & Kexts
 
