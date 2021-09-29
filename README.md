@@ -12,16 +12,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 ## Important information
 * This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
-* Monterey beta 6 software update may not show up if you have securebootmodel disabled in your config.plist. To get the update, change securebootmodel to the appropriate value based on your smbios ( [look here](https://dortania.github.io/OpenCore-Post-Install/universal/security/applesecureboot.html#securebootmodel) to find the values for your system ) and reboot. I had to choose j160 as my smbios is set to MacPro7,1. Make sure to change the securebootmodel back to disabled in the config.plist before the installer reboots the first time. DO NOT CHANGE THE SECURE BOOT VALUE IN BIOS.
-
-* To install Monterey Beta 7, you need to follow the steps below.
-
-  * Change securebootmodel to the appropriate value based on your smbios ( [look here](https://dortania.github.io/OpenCore-Post-Install/universal/security/applesecureboot.html#securebootmodel) ) and reboot for the update to show up.
-  * Install update after changing your smbios to iMac17,1 with securebootmodel set to disabled.( Booting from mackintosh HD )
-  * Change smbios to your original values and boot from your Monterey disk.
-  
-* To install Monterey Beta 8, follow the procedure for beta 6 mentioned above. Your OpenCore version needs to be 0.7.4 or above for beta 8 to boot.
-
 ## Specification
 
 | Component        | Model                                  |
