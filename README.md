@@ -19,8 +19,8 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 | CPU              | AMD Ryzen 7 2700                       |
 | MotherBoard      | MSI Pro VDH Max                        |
 | OS Disk          | Kingston 240gb SSD                     |
-| RAM              | 2x 8gb Corsair Vengeance Pro 16GB Ram  |
-| GPU              | AMD Radeon RX570 4gb                       |
+| RAM              | 4x 8gb Corsair Vengeance Pro 32GB Ram  |
+| GPU              | AMD Radeon RX570 4gb                   |
 | Cooler    	     | Cooler master hyper 410r               |
 
 ## Working
