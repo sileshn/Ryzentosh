@@ -14,14 +14,15 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Specification
 
-| Component        | Model                                  |
-| ---------------- | -------------------------------------- |
-| CPU              | AMD Ryzen 7 2700                       |
-| MotherBoard      | MSI Pro VDH Max                        |
-| OS Disk          | Kingston 240gb SSD                     |
-| RAM              | 4x 8gb Corsair Vengeance Pro 32GB Ram  |
-| GPU              | AMD Radeon RX570 4gb                   |
-| Cooler    	     | Cooler master hyper 410r               |
+| Component        | Model                                              |
+| ---------------- | ---------------------------------------------------|
+| CPU              | AMD Ryzen 7 2700                                   |
+| MotherBoard      | MSI Pro VDH Max                                    |
+| Wifi/Bluetooth   | Asus AX3000 Dual Band PCI-E WiFi 6 / Bluetooth 5.0 |
+| OS Disk          | Kingston 240gb SSD                                 |
+| RAM              | 4x 8gb Corsair Vengeance Pro 32GB Ram              |
+| GPU              | AMD Radeon RX570 4gb                               |
+| Cooler    	   | Cooler master hyper 410r          		            |
 
 ## Working
 
