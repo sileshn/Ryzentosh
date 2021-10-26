@@ -95,10 +95,10 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x4,0x0)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
-				<string>Internal@0,1,3/0,2/4,0/0,0</string>
+				<string>Internal@0,1,3/0,2/0,0/0,0</string>
 				<key>built-in</key>
 				<data>AQ==</data>
 				<key>device_type</key>
@@ -106,21 +106,21 @@
 				<key>model</key>
 				<string>RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x6,0x0)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x7,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
-				<string>Internal@0,1,3/0,2/6,0/0,0</string>
+				<string>Internal@0,1,3/0,2/7,0/0,0</string>
 				<key>built-in</key>
 				<data>AQ==</data>
 				<key>device_type</key>
 				<string>Network controller</string>
 				<key>model</key>
-				<string>BCM4360 802.11ac Wireless Network Adapter</string>
+				<string>Wi-Fi 6 AX200</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x1)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x8,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>AAPL,slot-name</key>
-				<string>Internal@0,1,1/0,0</string>
+				<string>Internal@0,1,3/0,2/8,0/0,0</string>
 				<key>built-in</key>
 				<data>AQ==</data>
 				<key>device_type</key>
