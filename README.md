@@ -56,9 +56,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
+I use OpenCore to multiboot Solus, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
 
-[![30030721.png](https://i.postimg.cc/DwqcL1jn/30030721.png)](https://postimg.cc/75Z7yJrW)
+[![31140453.png](https://i.postimg.cc/tgZxLv33/31140453.png)](https://postimg.cc/d7F3CBS3)
 
 ## Credits and links
 
