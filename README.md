@@ -48,6 +48,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
   
 * [Lilu](https://github.com/acidanthera/Lilu)
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
+* [RadeonSensor](https://github.com/aluveitie/RadeonSensor)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 * [RestrictEvents](https://github.com/acidanthera/RestrictEvents)
 * [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor)
