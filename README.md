@@ -4,13 +4,13 @@
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.5-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-# Disclaimer
-Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
+## Important information
+This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
 <a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='https://postimg.cc/Z08KBMQ7' target='_blank'><img src='https://i.postimg.cc/Z08KBMQ7/Screen-Shot-2021-11-10-at-6-47-56-AM.png' border='0' alt='Screen-Shot-2021-11-10-at-6-47-56-AM'/></a> <a href='https://postimg.cc/KKgfdvfs' target='_blank'><img src='https://i.postimg.cc/KKgfdvfs/Screenshot-2021-11-10-at-5-41-25-AM.png' border='0' alt='Screenshot-2021-11-10-at-5-41-25-AM'/></a>
 
-## Important information
-* This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
+## Disclaimer
+Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
 ## Specification
 
@@ -42,10 +42,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)
 * [AppleALC](https://github.com/acidanthera/AppleALC)
 * [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
-* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla)
-
-  Newer universal patches introduced in [this](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) commit requires you to update the core count of your processor. For more information on this subject, click [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).
-  
+* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla) ( Newer universal patches introduced in [this](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) commit requires you to update the core count of your processor. For more information on this subject, click [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).)
 * [Lilu](https://github.com/acidanthera/Lilu)
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 * [RadeonSensor](https://github.com/aluveitie/RadeonSensor)
@@ -57,9 +54,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to multiboot Solus, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
+I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
 
-[![31140453.png](https://i.postimg.cc/tgZxLv33/31140453.png)](https://postimg.cc/d7F3CBS3)
+[![10022018.png](https://i.postimg.cc/TwDYkvGy/10022018.png)](https://postimg.cc/cgdSHjvZ)
 
 ## Credits and links
 
