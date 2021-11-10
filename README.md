@@ -7,7 +7,8 @@
 # Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
-[![Screenshot-2021-07-23-at-7-24-32-AM.png](https://i.postimg.cc/zv97X3SV/Screenshot-2021-07-23-at-7-24-32-AM.png)](https://postimg.cc/RJLKgSYB) [![Screen-Shot-2021-11-10-at-6-47-56-AM.png](https://i.postimg.cc/9XS4S3Yh/Screen-Shot-2021-11-10-at-6-47-56-AM.png)](https://postimg.cc/Z08KBMQ7) [![Screenshot-2021-11-10-at-5-41-25-AM.png](https://i.postimg.cc/HL6N8ryH/Screenshot-2021-11-10-at-5-41-25-AM.png)](https://postimg.cc/KKgfdvfs)
+<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='https://postimg.cc/Z08KBMQ7' target='_blank'><img src='https://i.postimg.cc/Z08KBMQ7/Screen-Shot-2021-11-10-at-6-47-56-AM.png' border='0' alt='Screen-Shot-2021-11-10-at-6-47-56-AM'/></a> <a href='https://postimg.cc/KKgfdvfs' target='_blank'><img src='https://i.postimg.cc/KKgfdvfs/Screenshot-2021-11-10-at-5-41-25-AM.png' border='0' alt='Screenshot-2021-11-10-at-5-41-25-AM'/></a>
+
 ## Important information
 * This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
