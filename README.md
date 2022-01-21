@@ -1,13 +1,13 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.2%2020G313-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.2%20Beta2%2021D5039d-informational.svg)](https://www.apple.com/macos)\
+[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7%2019H1323-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.2%2020G313-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.2%2021D48-informational.svg)](https://www.apple.com/macos)\
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.7-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 ## Important information
 This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
-<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='https://postimg.cc/Z9YZr0CC' target='_blank'><img src='https://i.postimg.cc/Z9YZr0CC/Screenshot-2021-12-08-at-12-33-41-PM.png' border='0' alt='Screenshot-2021-12-08-at-12-33-41-PM'/></a> <a href='http://postimg.cc/nMr8Nsjg' target='_blank'><img src='https://i.postimg.cc/nMr8Nsjg/Screen-Shot-2022-01-12-at-11.png' border='0' alt='Screen-Shot-2022-01-12-at-11'/></a>
+<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='https://postimg.cc/Z9YZr0CC' target='_blank'><img src='https://i.postimg.cc/Z9YZr0CC/Screenshot-2021-12-08-at-12-33-41-PM.png' border='0' alt='Screenshot-2021-12-08-at-12-33-41-PM'/></a> <a href='http://postimg.cc/XZ5LZTsf' target='_blank'><img src='https://i.postimg.cc/XZ5LZTsf/Screen-Shot-2022-01-21-at-8.png' border='0' alt='Screen-Shot-2022-01-21-at-8'/></a>
 
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
