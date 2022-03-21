@@ -31,11 +31,11 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Ethernet
 * Wifi
 * iServices & drm
-* Sleep
 
 ## Not Working ( only ones I have tried, there may be more )
 
-* None apart from the known ones like sidecar afaik...
+* Sleep ( on Monterey )
+* Sidecar
 
 ## Patches, Drivers & Kexts
 
