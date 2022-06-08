@@ -39,13 +39,13 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Patches, Drivers & Kexts
 
-* [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup)
 * [AppleALC](https://github.com/acidanthera/AppleALC)
 * [AppleMCEReporterDisabler](https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip)
 * [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM)
 * [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla) ( Newer universal patches introduced in [this](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) commit requires you to update the core count of your processor. For more information on this subject, click [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).)
 * [Lilu](https://github.com/acidanthera/Lilu)
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
+* [OpenIntelWireless](https://github.com/OpenIntelWireless)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
 * [RestrictEvents](https://github.com/acidanthera/RestrictEvents)
 * [VirtualSMC](https://github.com/acidanthera/VirtualSMC)
@@ -53,9 +53,9 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Bootloader
 
-I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur & Monterey)
+I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur, Monterey & Ventura)
 
-[![10022018.png](https://i.postimg.cc/TwDYkvGy/10022018.png)](https://postimg.cc/cgdSHjvZ)
+[![08000251.png](https://i.postimg.cc/BZLJG7Yw/08000251.png)](https://postimg.cc/0rsTYnqp)
 
 ## Credits and links
 
