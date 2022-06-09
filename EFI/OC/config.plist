@@ -433,7 +433,7 @@
 				<key>Identifier</key>
 				<string>com.apple.iokit.IONetworkingFamily</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>19.99.99</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>PlistPath</key>
