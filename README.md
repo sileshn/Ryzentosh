@@ -7,7 +7,7 @@
 ## Important information
 This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
-<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='http://postimg.cc/9rpXNM6K' target='_blank'><img src='https://i.postimg.cc/9rpXNM6K/Screenshot-2022-05-17-at-6.png' border='0' alt='Screenshot-2022-05-17-at-6'/></a> <a href='http://postimg.cc/3kgCZPPY' target='_blank'><img src='https://i.postimg.cc/3kgCZPPY/Screen-Shot-2022-06-01-at-8.png' border='0' alt='Screen-Shot-2022-06-01-at-8'/></a> <a href='http://postimg.cc/mcVbvnRW' target='_blank'><img src='https://i.postimg.cc/mcVbvnRW/Screenshot-2022-06-07-at-4.png' border='0' alt='Screenshot-2022-06-07-at-4'/></a>
+<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='http://postimg.cc/9rpXNM6K' target='_blank'><img src='https://i.postimg.cc/9rpXNM6K/Screenshot-2022-05-17-at-6.png' border='0' alt='Screenshot-2022-05-17-at-6'/></a> <a href='http://postimg.cc/3kgCZPPY' target='_blank'><img src='https://i.postimg.cc/3kgCZPPY/Screen-Shot-2022-06-01-at-8.png' border='0' alt='Screen-Shot-2022-06-01-at-8'/></a> <a href="https://postimg.cc/CnR0bb3d" target="_blank"><img src="https://i.postimg.cc/CnR0bb3d/Screenshot-2022-06-12-at-11.png" alt="Screenshot-2022-06-12-at-11"/></a>
 
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
