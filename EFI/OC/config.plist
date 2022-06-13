@@ -411,7 +411,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>MaxKernel</key>
-				<string>21.99.99</string>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
@@ -429,7 +429,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>MaxKernel</key>
-				<string>21.99.99</string>
+				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
