@@ -1,13 +1,13 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.5%20beta3-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.0%20beta2-informational.svg)](https://www.apple.com/macos) \
+[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.6.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.5%20beta4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.0%20beta2-informational.svg)](https://www.apple.com/macos) \
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 ## Important information
 This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
-<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='http://postimg.cc/9rpXNM6K' target='_blank'><img src='https://i.postimg.cc/9rpXNM6K/Screenshot-2022-05-17-at-6.png' border='0' alt='Screenshot-2022-05-17-at-6'/></a> <a href='http://postimg.cc/0MF2KnVX' target='_blank'><img src='https://i.postimg.cc/0MF2KnVX/Screen-Shot-2022-06-15-at-6.png' border='0' alt='Screen-Shot-2022-06-15-at-6'/></a> <a href='https://postimg.cc/BL41Q3mQ' target='_blank'><img src='https://i.postimg.cc/BL41Q3mQ/Screenshot-2022-06-23-at-12-35-58-AM.png' border='0' alt='Screenshot-2022-06-23-at-12-35-58-AM'/></a>
+<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='http://postimg.cc/9rpXNM6K' target='_blank'><img src='https://i.postimg.cc/9rpXNM6K/Screenshot-2022-05-17-at-6.png' border='0' alt='Screenshot-2022-05-17-at-6'/></a> <a href="https://postimg.cc/PCtvqxCp" target="_blank"><img src="https://i.postimg.cc/PCtvqxCp/Screen-Shot-2022-06-25-at-3-41-45-PM.png" alt="Screen-Shot-2022-06-25-at-3-41-45-PM"/></a> <a href='https://postimg.cc/BL41Q3mQ' target='_blank'><img src='https://i.postimg.cc/BL41Q3mQ/Screenshot-2022-06-23-at-12-35-58-AM.png' border='0' alt='Screenshot-2022-06-23-at-12-35-58-AM'/></a>
 
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
