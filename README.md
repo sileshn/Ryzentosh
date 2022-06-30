@@ -16,7 +16,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 | Component        | Model                                              |
 | ---------------- | ---------------------------------------------------|
-| CPU              | AMD Ryzen 7 2700                                   |
+| CPU              | AMD Ryzen 5 3600                                 |
 | MotherBoard      | Gigabyte B450 Aorus Elite                          |
 | Wifi/Bluetooth   | Asus AX3000 Dual Band PCI-E WiFi 6 / Bluetooth 5.0 |
 | OS Disk          | Gigabyte NVME GP-GSM2NE3256GNTD 256gb              |
