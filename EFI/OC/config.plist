@@ -1197,7 +1197,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1537</integer>
 			<key>ROM</key>
 			<data>D861C036</data>
 			<key>SpoofVendor</key>
