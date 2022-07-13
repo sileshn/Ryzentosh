@@ -7,7 +7,7 @@
 ## Important information
 This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra.
 
-<a href='https://postimg.cc/RJLKgSYB' target='_blank'><img src='https://i.postimg.cc/RJLKgSYB/Screenshot-2021-07-23-at-7-24-32-AM.png' border='0' alt='Screenshot-2021-07-23-at-7-24-32-AM'/></a> <a href='http://postimg.cc/9rpXNM6K' target='_blank'><img src='https://i.postimg.cc/9rpXNM6K/Screenshot-2022-05-17-at-6.png' border='0' alt='Screenshot-2022-05-17-at-6'/></a> <a href='https://postimg.cc/k6HZtw7T' target='_blank'><img src='https://i.postimg.cc/k6HZtw7T/Screen-Shot-2022-07-13-at-1-46-18-AM.png' border='0' alt='Screen-Shot-2022-07-13-at-1-46-18-AM'/></a> <a href="https://postimg.cc/hzvZ5CWn" target="_blank"><img src="https://i.postimg.cc/hzvZ5CWn/Screenshot-2022-07-12-at-5-51-34-AM.png" alt="Screenshot-2022-07-12-at-5-51-34-AM"/></a>
+<a href="https://postimg.cc/WdzvYsny" target="_blank"><img src="https://i.postimg.cc/WdzvYsny/Screenshot-2022-07-13-at-11-29-46-AM.png" alt="Screenshot-2022-07-13-at-11-29-46-AM"/></a> <a href='http://postimg.cc/9rpXNM6K' target='_blank'><img src='https://i.postimg.cc/9rpXNM6K/Screenshot-2022-05-17-at-6.png' border='0' alt='Screenshot-2022-05-17-at-6'/></a> <a href='https://postimg.cc/k6HZtw7T' target='_blank'><img src='https://i.postimg.cc/k6HZtw7T/Screen-Shot-2022-07-13-at-1-46-18-AM.png' border='0' alt='Screen-Shot-2022-07-13-at-1-46-18-AM'/></a> <a href="https://postimg.cc/hzvZ5CWn" target="_blank"><img src="https://i.postimg.cc/hzvZ5CWn/Screenshot-2022-07-12-at-5-51-34-AM.png" alt="Screenshot-2022-07-12-at-5-51-34-AM"/></a>
 
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
@@ -55,7 +55,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur, Monterey & Ventura)
 
-[![08000251.png](https://i.postimg.cc/BZLJG7Yw/08000251.png)](https://postimg.cc/0rsTYnqp)
+[![13060127.png](https://i.postimg.cc/nLFcQJvB/13060127.png)](https://postimg.cc/CR2VW9rx)
 
 ## Credits and links
 
