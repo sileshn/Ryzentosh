@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh
 
 [![MacOS version](https://img.shields.io/badge/Catalina-10.15.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.7.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.6.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.2%20Beta1-informational.svg)](https://www.apple.com/macos) \
-[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.7-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
+[![OpenCore version](https://img.shields.io/badge/OpenCore-0.8.8-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 <a href="https://postimg.cc/WdzvYsny" target="_blank"><img src="https://i.postimg.cc/WdzvYsny/Screenshot-2022-07-13-at-11-29-46-AM.png" alt="Screenshot-2022-07-13-at-11-29-46-AM"/></a> <a href="https://postimg.cc/R643WRW2" target="_blank"><img src="https://i.postimg.cc/R643WRW2/Screenshot-2022-12-14-at-10-37-28-AM.png" alt="Screenshot-2022-12-14-at-10-37-28-AM"/></a> <a href="https://postimg.cc/8sn5GDm2" target="_blank"><img src="https://i.postimg.cc/8sn5GDm2/Screenshot-2022-12-14-at-11-15-05-AM.png" alt="Screenshot-2022-12-14-at-11-15-05-AM"/></a> <a href='https://postimg.cc/0MZM43Nf' target='_blank'><img src='https://i.postimg.cc/0MZM43Nf/Screenshot-2022-12-16-at-12-08-59-PM.png' border='0' alt='Screenshot-2022-12-16-at-12-08-59-PM'/></a>
