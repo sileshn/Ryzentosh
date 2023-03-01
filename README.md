@@ -42,7 +42,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 * [AppleALC](https://github.com/acidanthera/AppleALC)
 * [AppleMCEReporterDisabler](https://github.com/acidanthera/bugtracker/files/3703498/AppleMCEReporterDisabler.kext.zip)
-* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla) ( Newer universal patches introduced in [this](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) commit requires you to update the core count of your processor. For more information on this subject, click [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).)
+* [Kernel Patches](https://github.com/AMD-OSX/AMD_Vanilla) ( Universal patches introduced [here](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) and updates for Ventura 13.3+ introduced [here](https://github.com/sileshn/Ryzentosh/commit/00aab441a0a8a0fbcc9532c7beb51bbec24d85cb) requires you to change the core count of your processor. For more information on this subject, click [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).)
 * [Lilu](https://github.com/acidanthera/Lilu)
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 * [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)
