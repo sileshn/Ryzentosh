@@ -11,7 +11,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 ## Important information
 * This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra. As a result, there will be only 3 core count patches in this EFI instead of the usual 4.
 * Ventura incremental OTA updates may fail and force you to download the full installer. This is probably due to BluetoolFixup and IntelBluetoothFirmware kext's. If you use these kext's in your setup like i do, you can overcome this issue by disabling the kext's in your config.plist prior to running your updates and enable them back post updation.
-* Sonoma beta2 update may not show up if you are running Sonoma beta1 on MacPro 7,1 smbios. A workaround for this is to change the smbios to iMac 19,1 to trigger the download and then change back to MacPro 7,1 before installing the update. You will also need to disable RestrictEvents or use the `revpatch=sbvmm` boot argument.
 * Universal patches introduced [here](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) and updates for Ventura 13.3+ introduced [here](https://github.com/sileshn/Ryzentosh/commit/00aab441a0a8a0fbcc9532c7beb51bbec24d85cb) requires you to change the core count of your processor. More information can be found [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).
 * Press spacebar to view additional options in the OC bootscreen.
 
