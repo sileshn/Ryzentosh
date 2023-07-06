@@ -38,7 +38,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 * Sleep ( on Monterey )
 * Sidecar
-* Wifi ( on Sonoma )
 
 ## Patches, Drivers & Kexts
 
