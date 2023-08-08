@@ -1,10 +1,10 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.7.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.6.8-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.5-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.0%20beta4-informational.svg)](https://www.apple.com/macos) \
+[![MacOS version](https://img.shields.io/badge/Catalina-10.15.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Bigsur-11.7.7-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Monterey-12.6.8-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.5-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.0%20beta5-informational.svg)](https://www.apple.com/macos) \
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-<a href="https://postimg.cc/WdzvYsny" target="_blank"><img src="https://i.postimg.cc/WdzvYsny/Screenshot-2022-07-13-at-11-29-46-AM.png" alt="Screenshot-2022-07-13-at-11-29-46-AM"/></a> <a href="https://postimg.cc/mcWSTcTC" target="_blank"><img src="https://i.postimg.cc/mcWSTcTC/Screenshot_2023-05-19_at_8.26.25_AM.png" alt="Screenshot_2023-05-19_at_8.26.25_AM"/></a> <a href="https://postimg.cc/4Y9y6Y4D" target="_blank"><img src="https://i.postimg.cc/4Y9y6Y4D/Screenshot_2023-07-25_at_7.10.06_AM.png" alt="Screenshot_2023-07-25_at_7.10.06_AM"/></a> <a href="https://postimg.cc/757nWZy1" target="_blank"><img src="https://i.postimg.cc/757nWZy1/Screenshot_2023-07-19_at_4.07.51_AM.png" alt="Screenshot_2023-07-19_at_4.07.51_AM"/></a> <a href="https://postimg.cc/4mKZCVRM" target="_blank"><img src="https://i.postimg.cc/4mKZCVRM/tempImageCg5GRt.jpg" alt="tempImageCg5GRt"/></a>
+<a href="https://postimg.cc/WdzvYsny" target="_blank"><img src="https://i.postimg.cc/WdzvYsny/Screenshot-2022-07-13-at-11-29-46-AM.png" alt="Screenshot-2022-07-13-at-11-29-46-AM"/></a> <a href="https://postimg.cc/mcWSTcTC" target="_blank"><img src="https://i.postimg.cc/mcWSTcTC/Screenshot_2023-05-19_at_8.26.25_AM.png" alt="Screenshot_2023-05-19_at_8.26.25_AM"/></a> <a href="https://postimg.cc/4Y9y6Y4D" target="_blank"><img src="https://i.postimg.cc/4Y9y6Y4D/Screenshot_2023-07-25_at_7.10.06_AM.png" alt="Screenshot_2023-07-25_at_7.10.06_AM"/></a> <a href="https://postimg.cc/757nWZy1" target="_blank"><img src="https://i.postimg.cc/757nWZy1/Screenshot_2023-07-19_at_4.07.51_AM.png" alt="Screenshot_2023-07-19_at_4.07.51_AM"/></a> <a href="https://postimg.cc/CzNmFgd9" target="_blank"><img src="https://i.postimg.cc/CzNmFgd9/tempImageLQGPIB.jpg" alt="tempImageLQGPIB"/></a>
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
@@ -39,6 +39,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 * Sleep ( on Monterey )
 * Sidecar
+* Wifi ( on Sonoma beta 5 )
 
 ## Patches, Drivers & Kexts
 
