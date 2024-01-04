@@ -59,7 +59,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 I use OpenCore to multiboot Manjaro, Windows(10&11) and MacOS(Catalina, BigSur, Monterey & Ventura)
 
-[![13060127.png](https://i.postimg.cc/nLFcQJvB/13060127.png)](https://postimg.cc/CR2VW9rx)
+[![04000725.png](https://i.postimg.cc/ZqdPpQj7/04000725.png)](https://postimg.cc/069JqcTD)
 
 ## Credits and links
 
