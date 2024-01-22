@@ -15,6 +15,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Universal patches introduced [here](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) and updates for Ventura 13.3+ introduced [here](https://github.com/sileshn/Ryzentosh/commit/00aab441a0a8a0fbcc9532c7beb51bbec24d85cb) requires you to change the core count of your processor. More information can be found [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).
 * Wifi and bluetooth may or may not work on Sonoma depending on your hardware.
 * Press spacebar to view additional options in the OC bootscreen.
+* `IntelBTPatcher.kext`, `IntelBluetoothFirmware.kext` & `BlueToolFixup.kext` are disabled by default. Enable them if you want bluetooth support.
 
 ## Specification
 

@@ -321,7 +321,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -339,7 +339,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -357,7 +357,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
