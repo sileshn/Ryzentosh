@@ -4,7 +4,7 @@
 [![OpenCore version](https://img.shields.io/badge/OpenCore-0.9.7-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-<a href="https://postimg.cc/mcWSTcTC" target="_blank"><img src="https://i.postimg.cc/mcWSTcTC/Screenshot_2023-05-19_at_8.26.25_AM.png" alt="Screenshot_2023-05-19_at_8.26.25_AM"/></a> <a href="https://postimg.cc/VJPsThGw" target="_blank"><img src="https://i.postimg.cc/VJPsThGw/temp-Image26-C8-TR.jpg" alt="temp-Image26-C8-TR"/></a> <a href="https://postimg.cc/nMsHLxNZ" target="_blank"><img src="https://i.postimg.cc/nMsHLxNZ/temp-Image45-Yy-Gt.jpg" alt="temp-Image45-Yy-Gt"/></a> <a href="https://postimg.cc/nXb8yV5S" target="_blank"><img src="https://i.postimg.cc/nXb8yV5S/temp-Image2-MVt6j.avif" alt="temp-Image2-MVt6j"/></a>
+<a href="https://postimg.cc/mcWSTcTC" target="_blank"><img src="https://i.postimg.cc/mcWSTcTC/Screenshot_2023-05-19_at_8.26.25_AM.png" alt="Screenshot_2023-05-19_at_8.26.25_AM"/></a> <a href="https://postimg.cc/VJPsThGw" target="_blank"><img src="https://i.postimg.cc/VJPsThGw/temp-Image26-C8-TR.jpg" alt="temp-Image26-C8-TR"/></a> <a href="https://postimg.cc/nMsHLxNZ" target="_blank"><img src="https://i.postimg.cc/nMsHLxNZ/temp-Image45-Yy-Gt.jpg" alt="temp-Image45-Yy-Gt"/></a> <a href="https://postimg.cc/MXzMf19Y" target="_blank"><img src="https://i.postimg.cc/MXzMf19Y/temp-Imageciu-Ku9.avif" alt="temp-Imageciu-Ku9"/></a>
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
@@ -16,7 +16,6 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Wifi and bluetooth may or may not work on Sonoma depending on your hardware.
 * Press spacebar to view additional options in the OC bootscreen.
 * `IntelBTPatcher.kext`, `IntelBluetoothFirmware.kext` & `BlueToolFixup.kext` are disabled by default. Enable them if you want bluetooth support.
-* AirportItlwm needs to be disabled for Sonoma 14.4 beta installs.
 
 ## Specification
 
