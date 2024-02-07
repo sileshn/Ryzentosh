@@ -16,6 +16,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Wifi and bluetooth may or may not work on Sonoma depending on your hardware.
 * Press spacebar to view additional options in the OC bootscreen.
 * `IntelBTPatcher.kext`, `IntelBluetoothFirmware.kext` & `BlueToolFixup.kext` are disabled by default. Enable them if you want bluetooth support.
+* `Securebootmodel` should be set to `Disabled` for Sonoma 14.4 beta installs.
 
 ## Specification
 
