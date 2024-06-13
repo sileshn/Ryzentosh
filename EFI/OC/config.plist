@@ -1457,7 +1457,7 @@
 				<key>boot-args</key>
 				<string>-v keepsyms=1 npci=0x2000 debug=0x100 unfairgva=1 alcid=1</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>hQoAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>ZW4tVVM6MA==</data>
 			</dict>
