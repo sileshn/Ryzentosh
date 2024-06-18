@@ -15,7 +15,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Universal patches introduced [here](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) and updates for Ventura 13.3+ introduced [here](https://github.com/sileshn/Ryzentosh/commit/00aab441a0a8a0fbcc9532c7beb51bbec24d85cb) requires you to change the core count of your processor. More information can be found [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).
 * Press spacebar to view additional options in the OC bootscreen.
 * `IntelBTPatcher.kext`, `IntelBluetoothFirmware.kext` & `BlueToolFixup.kext` are disabled by default. Enable them if you want bluetooth support.
-* `Securebootmodel` should be set to `Disabled` for Sonoma 14.4 beta installs.
+* `Securebootmodel` should be set to `Disabled` for Sonoma 14.4 beta installs. You can re-enable after the update.
 * MacOS Sequoia is in beta state. You will need to use [Helliport app](https://github.com/diepeterpan/HeliPort/releases/tag/v1.5.0) for wifi and [VoodooHDA](https://www.insanelymac.com/forum/topic/314406-voodoohda-302/page/19/#comment-2756841) for audio.
 
 ## Specification
