@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh
 
 [![MacOS version](https://img.shields.io/badge/Monterey-12.7.6-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.6.8-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.6-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.0%20beta4-informational.svg)](https://www.apple.com/macos) \
-[![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
+[![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.1-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 <a href="https://postimg.cc/Mv3f5xZY" target="_blank"><img src="https://i.postimg.cc/Mv3f5xZY/temp-Image-UQd-Im-Y.avif" alt="temp-Image-UQd-Im-Y"/></a> <a href="https://postimg.cc/34d71MtP" target="_blank"><img src="https://i.postimg.cc/34d71MtP/temp-Image-HTM4qn.avif" alt="temp-Image-HTM4qn"/></a> <a href="https://postimg.cc/sMBVN7dt" target="_blank"><img src="https://i.postimg.cc/sMBVN7dt/temp-Imagen-Owd6e.avif" alt="temp-Imagen-Owd6e"/></a> <a href="https://postimg.cc/vD3b83GJ" target="_blank"><img src="https://i.postimg.cc/vD3b83GJ/temp-Image-Sr5n6z.avif" alt="temp-Image-Sr5n6z"/></a>
