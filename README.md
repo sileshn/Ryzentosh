@@ -42,7 +42,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 * Sleep ( on Monterey )
 * Sidecar
-* Wifi/Bluetooth/Audio ( on Sequoia )
+* Wifi/Audio ( on Sequoia )
 
 ## Patches, Drivers & Kexts
 
