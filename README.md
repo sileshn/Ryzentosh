@@ -16,7 +16,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Press spacebar to view additional options in the OC bootscreen.
 * `IntelBTPatcher.kext`, `IntelBluetoothFirmware.kext` & `BlueToolFixup.kext` are disabled by default. Enable them if you want bluetooth support.
 * `Securebootmodel` should be set to `Disabled` for Sonoma 14.4 & Sequoia beta installs. You can change them after the update.
-* MacOS Sequoia is in beta state. You will need to use [Helliport app](https://github.com/diepeterpan/HeliPort/releases/tag/v1.5.0) for wifi and [VoodooHDA](https://www.insanelymac.com/forum/topic/314406-voodoohda-302/page/19/#comment-2756841) for audio.
+* MacOS Sequoia is in beta state. You will need to use [Helliport app](https://github.com/diepeterpan/HeliPort/releases/tag/v1.5.0) for wifi.
 
 ## Specification
 
@@ -42,7 +42,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 * Sleep ( on Monterey )
 * Sidecar
-* Wifi/Audio ( on Sequoia )
+* Wifi ( itlwm works on Sequoia with Heliport app )
 
 ## Patches, Drivers & Kexts
 
