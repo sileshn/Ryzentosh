@@ -4,7 +4,7 @@
 [![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-<a href="https://postimg.cc/Mv3f5xZY" target="_blank"><img src="https://i.postimg.cc/Mv3f5xZY/temp-Image-UQd-Im-Y.avif" alt="temp-Image-UQd-Im-Y"/></a> <a href="https://postimg.cc/RJ7BYcYD" target="_blank"><img src="https://i.postimg.cc/RJ7BYcYD/temp-Imagep-Hqlem.avif" alt="temp-Imagep-Hqlem"/></a> <a href="https://postimg.cc/p9SCw3bm" target="_blank"><img src="https://i.postimg.cc/p9SCw3bm/temp-Imagewh-ZOo-Z.avif" alt="temp-Imagewh-ZOo-Z"/></a> <a href="https://postimg.cc/5XvG26m2" target="_blank"><img src="https://i.postimg.cc/5XvG26m2/temp-Image-XRddi7.avif" alt="temp-Image-XRddi7"/></a>
+<a href="https://postimg.cc/Mv3f5xZY" target="_blank"><img src="https://i.postimg.cc/Mv3f5xZY/temp-Image-UQd-Im-Y.avif" alt="temp-Image-UQd-Im-Y"/></a> <a href="https://postimg.cc/RJ7BYcYD" target="_blank"><img src="https://i.postimg.cc/RJ7BYcYD/temp-Imagep-Hqlem.avif" alt="temp-Imagep-Hqlem"/></a> <a href="https://postimg.cc/p9SCw3bm" target="_blank"><img src="https://i.postimg.cc/p9SCw3bm/temp-Imagewh-ZOo-Z.avif" alt="temp-Imagewh-ZOo-Z"/></a> <a href="https://postimg.cc/G86CpbVG" target="_blank"><img src="https://i.postimg.cc/G86CpbVG/temp-Imagegp2s-YR.avif" alt="temp-Imagegp2s-YR"/></a>
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
