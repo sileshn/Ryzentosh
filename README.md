@@ -1,10 +1,10 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Monterey-12.7.6-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.7.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.7.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.3%20beta2-informational.svg)](https://www.apple.com/macos) \
+[![MacOS version](https://img.shields.io/badge/Monterey-12.7.6-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.7.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.7.2-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.3%20beta3-informational.svg)](https://www.apple.com/macos) \
 [![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-<a href="https://postimg.cc/Mv3f5xZY" target="_blank"><img src="https://i.postimg.cc/Mv3f5xZY/temp-Image-UQd-Im-Y.avif" alt="temp-Image-UQd-Im-Y"/></a> <a href="https://postimg.cc/RJ7BYcYD" target="_blank"><img src="https://i.postimg.cc/RJ7BYcYD/temp-Imagep-Hqlem.avif" alt="temp-Imagep-Hqlem"/></a> <a href="https://postimg.cc/p9SCw3bm" target="_blank"><img src="https://i.postimg.cc/p9SCw3bm/temp-Imagewh-ZOo-Z.avif" alt="temp-Imagewh-ZOo-Z"/></a> <a href="https://postimg.cc/V513jZ4K" target="_blank"><img src="https://i.postimg.cc/V513jZ4K/temp-Imagej-YRRvq.avif" alt="temp-Imagej-YRRvq"/></a>
+<a href="https://postimg.cc/Mv3f5xZY" target="_blank"><img src="https://i.postimg.cc/Mv3f5xZY/temp-Image-UQd-Im-Y.avif" alt="temp-Image-UQd-Im-Y"/></a> <a href="https://postimg.cc/RJ7BYcYD" target="_blank"><img src="https://i.postimg.cc/RJ7BYcYD/temp-Imagep-Hqlem.avif" alt="temp-Imagep-Hqlem"/></a> <a href="https://postimg.cc/p9SCw3bm" target="_blank"><img src="https://i.postimg.cc/p9SCw3bm/temp-Imagewh-ZOo-Z.avif" alt="temp-Imagewh-ZOo-Z"/></a> <a href="https://postimg.cc/1nMhPVRn" target="_blank"><img src="https://i.postimg.cc/1nMhPVRn/temp-Imaget18-Qwa.avif" alt="temp-Imaget18-Qwa"/></a>
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
