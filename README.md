@@ -1,10 +1,10 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Monterey-12.7.6-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Ventura-13.7.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.7.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.4%20beta4-informational.svg)](https://www.apple.com/macos) \
+[![MacOS version](https://img.shields.io/badge/Ventura-13.7.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.7.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.4%20beta4-informational.svg)](https://www.apple.com/macos) \
 [![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-<a href="https://postimg.cc/Mv3f5xZY" target="_blank"><img src="https://i.postimg.cc/Mv3f5xZY/temp-Image-UQd-Im-Y.avif" alt="temp-Image-UQd-Im-Y"/></a> <a href='https://postimg.cc/yDL4hFrs' target='_blank'><img src='https://i.postimg.cc/yDL4hFrs/Screenshot-2025-02-23-at-4-33-40-PM.png' border='0' alt='Screenshot-2025-02-23-at-4-33-40-PM'/></a> <a href='https://postimg.cc/Fdmy9LNk' target='_blank'><img src='https://i.postimg.cc/Fdmy9LNk/Screenshot-2025-02-23-at-4-05-52-PM.png' border='0' alt='Screenshot-2025-02-23-at-4-05-52-PM'/></a> <a href="https://ibb.co/nMpy0zj3"><img src="https://i.ibb.co/nMpy0zj3/Screenshot-2025-03-20-at-9-56-40-AM.png" alt="Screenshot-2025-03-20-at-9-56-40-AM" border="0"></a>
+<a href="https://ibb.co/NnphwxbM"><img src="https://i.ibb.co/NnphwxbM/Screenshot-2025-02-23-at-4-33-40-PM.png" alt="Screenshot-2025-02-23-at-4-33-40-PM" border="0" /></a> <a href="https://ibb.co/1tRtXwgw"><img src="https://i.ibb.co/1tRtXwgw/Screenshot-2025-02-23-at-4-05-52-PM.png" alt="Screenshot-2025-02-23-at-4-05-52-PM" border="0" /></a> <a href="https://ibb.co/nMpy0zj3"><img src="https://i.ibb.co/nMpy0zj3/Screenshot-2025-03-20-at-9-56-40-AM.png" alt="Screenshot-2025-03-20-at-9-56-40-AM" border="0"></a>
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
