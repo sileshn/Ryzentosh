@@ -15,7 +15,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * Press spacebar to view additional options in the OC bootscreen.
 * `Securebootmodel` should be set to `Disabled` for `Sonoma >= 14.4 & Sequoia` installs. You can change it back after the update.
 * You will need to use [Helliport app](https://github.com/diepeterpan/HeliPort/releases/tag/v1.5.0) for wifi in Sequoia.
-* AMD Polaris cards (RX 400, RX 500) do not work on Tahoe beta 1. You will need to add `-lilubetaall` to your boot-args.
+* AMD Polaris cards (RX 400, RX 500) do not work on Tahoe beta 1.
 
 ## Specification
 
