@@ -1,10 +1,10 @@
 # AMD Ryzen Hackintosh
 
-[![MacOS version](https://img.shields.io/badge/Ventura-13.7.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.7.6-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.5-informational.svg)](https://www.apple.com/macos) \
+[![MacOS version](https://img.shields.io/badge/Ventura-13.7.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.7.6-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.6%20beta1-informational.svg)](https://www.apple.com/macos) \
 [![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.4-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
-<a href="https://ibb.co/NnphwxbM"><img src="https://i.ibb.co/NnphwxbM/Screenshot-2025-02-23-at-4-33-40-PM.png" alt="Screenshot-2025-02-23-at-4-33-40-PM" border="0" /></a> <a href="https://ibb.co/prxFBGQ5"><img src="https://i.ibb.co/prxFBGQ5/Screenshot-2025-05-13-at-8-58-04-AM.png" alt="Screenshot-2025-05-13-at-8-58-04-AM" border="0"></a> <a href="https://ibb.co/Qv44pjCm"><img src="https://i.ibb.co/Qv44pjCm/Screenshot-2025-05-07-at-4-05-01-AM.png" alt="Screenshot-2025-05-07-at-4-05-01-AM" border="0"></a>
+<a href="https://ibb.co/NnphwxbM"><img src="https://i.ibb.co/NnphwxbM/Screenshot-2025-02-23-at-4-33-40-PM.png" alt="Screenshot-2025-02-23-at-4-33-40-PM" border="0" /></a> <a href="https://ibb.co/prxFBGQ5"><img src="https://i.ibb.co/prxFBGQ5/Screenshot-2025-05-13-at-8-58-04-AM.png" alt="Screenshot-2025-05-13-at-8-58-04-AM" border="0"></a> <a href="https://ibb.co/6JG4LZ03"><img src="https://i.ibb.co/6JG4LZ03/Screenshot-2025-06-23-at-4-39-44-AM.png" alt="Screenshot-2025-06-23-at-4-39-44-AM" border="0"></a>
 ## Disclaimer
 Use at your own risk. I take no responsiblity if your rig explodes. Create unique SMBios values for your rig. Don't copy ones shown in the config.plist!!!
 
