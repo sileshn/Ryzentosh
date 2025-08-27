@@ -16,6 +16,7 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 * `Securebootmodel` should be set to `Disabled` for `Sonoma >= 14.4 & Sequoia` installs. You can change it back after the update.
 * You will need to use [Helliport app](https://github.com/diepeterpan/HeliPort/releases/tag/v1.5.0) for wifi in Sequoia & Tahoe.
 * AppleALC doesn't work on Tahoe.
+* The Intel bluetooth and whatevergreen kext's have be disabled during the Tahoe installation process. They can be enabled after installation.
 
 ## Specification
 
