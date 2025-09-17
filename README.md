@@ -10,13 +10,12 @@ Use at your own risk. I take no responsiblity if your rig explodes. Create uniqu
 
 ## Important information
 * This EFI supports only MacOS versions catalina(10.15) and higher. Your system will not boot if you use this on Mojave and High Sierra. As a result, there will be only 3 core count patches in this EFI instead of the usual 4.
-* Incremental OTA updates starting from Ventura may fail and force you to download the full installer. This is probably due to BluetoolFixup kext. If you use BluetoolFixup in your setup like i do, you can overcome this issue by disabling the kext in your config.plist prior to running your updates and enable them back post updation.
+* Incremental OTA updates from Ventura to Tahoe may fail and force you to download the full installer if you use `BluetoolFixup` kext in your setup. You can overcome this issue by disabling the kext in your config.plist prior to running your updates.
 * Universal patches introduced [here](https://github.com/sileshn/Ryzentosh/commit/adcb87fa003a0e77afaded014984a00ecb07b775) and updates for Ventura 13.3+ introduced [here](https://github.com/sileshn/Ryzentosh/commit/00aab441a0a8a0fbcc9532c7beb51bbec24d85cb) requires you to change the core count of your processor. More information can be found [here](https://github.com/AMD-OSX/AMD_Vanilla#read-me-first).
-* Press spacebar to view additional options in the OC bootscreen.
-* `Securebootmodel` should be set to `Disabled` for `Sonoma >= 14.4 & Sequoia` installs. You can change it back after the update.
+* `Securebootmodel` should be set to `Disabled` for `Sonoma >= 14.4, Sequoia & Tahoe` installs.
 * You will need to use [Helliport app](https://github.com/diepeterpan/HeliPort/releases/tag/v1.5.0) for wifi in Sequoia & Tahoe.
-* AppleALC doesn't work on Tahoe.
-* The Intel bluetooth and whatevergreen kext's have be disabled during the Tahoe installation process. They can be enabled after installation.
+* `WhateverGreen` kext should be disabled during the Tahoe installation process. `AppleALC` doesn't work on Tahoe.
+* Press spacebar to view additional options in the OC bootscreen.
 
 ## Specification
 
