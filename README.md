@@ -1,7 +1,7 @@
 # AMD Ryzen Hackintosh
 
 [![MacOS version](https://img.shields.io/badge/Ventura-13.7.4-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sonoma-14.8.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Sequoia-15.7.1-informational.svg)](https://www.apple.com/macos) [![MacOS version](https://img.shields.io/badge/Tahoe-26.1-informational.svg)](https://www.apple.com/macos)\
-[![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.5-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
+[![OpenCore version](https://img.shields.io/badge/OpenCore-1.0.6-informational.svg)](https://github.com/acidanthera/OpenCorePkg)\
 [![GitHub](https://img.shields.io/github/license/sileshn/Ryzentosh?style=flat-square)](https://github.com/sileshn/Ryzentosh/blob/master/LICENSE)
 
 <a href="https://ibb.co/NnphwxbM"><img src="https://i.ibb.co/NnphwxbM/Screenshot-2025-02-23-at-4-33-40-PM.png" alt="Screenshot-2025-02-23-at-4-33-40-PM" border="0" /></a> <a href="https://ibb.co/TxchDQ2x"><img src="https://i.ibb.co/TxchDQ2x/Screenshot-2025-09-30-at-5-29-32-AM.png" alt="Screenshot-2025-09-30-at-5-29-32-AM" border="0"></a> <a href="https://ibb.co/RpvzySvf"><img src="https://i.ibb.co/RpvzySvf/Screenshot-2025-09-30-at-5-54-11-AM.png" alt="Screenshot-2025-09-30-at-5-54-11-AM" border="0"></a> <a href="https://ibb.co/0RgchHBx"><img src="https://i.ibb.co/0RgchHBx/Screenshot-2025-10-30-at-6-55-58-AM.png" alt="Screenshot-2025-10-30-at-6-55-58-AM" border="0"></a>
